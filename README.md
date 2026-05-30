@@ -41,3 +41,7 @@ Patient Data → Validation → Gemini AI → Health Remark → SQLite Database
 * Add Patient Form
 * View Patient Records
 * AI Remarks Column
+=======
+# health-prediction-application
+Health Prediction Application using Streamlit, SQLite and Gemini AI
+
