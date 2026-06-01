@@ -24,13 +24,17 @@ Health Prediction Application is a Streamlit-based web application that allows u
 
 ## How to Run
 
-1. Install dependencies
+### 1. Install Dependencies
 
+```bash
 pip install -r requirements.txt
+```
 
-2. Run the application
+### 2. Run the Application
 
+```bash
 python -m streamlit run app.py
+```
 
 ## Project Workflow
 
@@ -41,7 +45,3 @@ Patient Data → Validation → Gemini AI → Health Remark → SQLite Database
 * Add Patient Form
 * View Patient Records
 * AI Remarks Column
-=======
-# health-prediction-application
-Health Prediction Application using Streamlit, SQLite and Gemini AI
-
